@@ -16,7 +16,7 @@ See also the [standalone version](https://github.com/vasturiano/globe.gl).
 #### Check out the examples:
 * [Basic](https://vasturiano.github.io/three-globe/example/basic/) ([source](https://github.com/vasturiano/three-globe/blob/master/example/basic/index.html))
 * [Arc Links](https://vasturiano.github.io/three-globe/example/links/) ([source](https://github.com/vasturiano/three-globe/blob/master/example/links/index.html))
-* [Country Polygons](https://vasturiano.github.io/three-globe/example/country-polygons/) ([source](https://github.com/vasturiano/three-globe/blob/master/example/country-polygons/index.html))
+* [Country Polygons](https://mihalyvar.github.io/three-globe/example/country-polygons/) ([source](https://github.com/mihalyvar/three-globe/blob/master/example/country-polygons/index.html))
 * [Path lines](https://vasturiano.github.io/three-globe/example/paths/) ([source](https://github.com/vasturiano/three-globe/blob/master/example/paths/index.html))
 * [Hexagonal Binning](https://vasturiano.github.io/three-globe/example/hexbin/) ([source](https://github.com/vasturiano/three-globe/blob/master/example/hexbin/index.html))
 * [Hexed Country Polygons](https://vasturiano.github.io/three-globe/example/hexed-polygons/) ([source](https://github.com/vasturiano/three-globe/blob/master/example/hexed-polygons/index.html))
